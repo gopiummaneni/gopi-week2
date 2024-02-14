@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gopi-week2/static/css/main.628e3091.css",
+    "main.js": "/gopi-week2/static/js/main.e7bd0a47.js",
+    "static/js/592.167abb64.chunk.js": "/gopi-week2/static/js/592.167abb64.chunk.js",
+    "index.html": "/gopi-week2/index.html",
+    "main.628e3091.css.map": "/gopi-week2/static/css/main.628e3091.css.map",
+    "main.e7bd0a47.js.map": "/gopi-week2/static/js/main.e7bd0a47.js.map",
+    "592.167abb64.chunk.js.map": "/gopi-week2/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.e7bd0a47.js"
+  ]
+}
